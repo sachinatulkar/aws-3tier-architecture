@@ -1,0 +1,13 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars.backup
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
